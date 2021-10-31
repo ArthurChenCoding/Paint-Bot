@@ -1,6 +1,6 @@
 # Paint Bot
 
-Implemented a fully dexterous robot manipulator with GUI using forward and inverse kinematics.
+A fully dexterous robot manipulator with GUI using forward and inverse kinematics, which can be manipulated through the control panel to perform both rotational and translational control of the end effector.
 
 ## Installation
 
