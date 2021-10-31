@@ -17,6 +17,9 @@ pip install numpy
 python Main.py
 ```
 
+## Demonstration
+A screenshot of our 3 joint robot drawing Texas A&M University logo through translation command from the command panel:
+![demo](demo.png)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
