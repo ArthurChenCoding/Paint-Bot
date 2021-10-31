@@ -29,7 +29,7 @@ Please make sure to update tests as appropriate.
 CSCE 452 from Texas A&M University
 
 ## Contributor
-Avinash Chaurasia
-Michaela Matocha
-Kyle Lamb
+Avinash Chaurasia\
+Michaela Matocha\
+Kyle Lamb\
 Osric Nagle
